@@ -28,6 +28,19 @@ Prima di far partire il sistema, è necessario aver installato alcune librerie e
  
 ## Come funziona il sistema
  
-Appena avviato il sistema, si apre la pagina principale, un menù dove è possibile scegliere l’operazione da compiere, consultabile in ogni momento.
+Appena avviato il sistema, si apre la pagina principale, un menù dove è possibile scegliere l’operazione da compiere, consultabile in ogni momento. <br>
+<img src="images/1.PNG"> <br>
 
-Nel menù ci sono tre pulsanti:
+Nel menù ci sono tre pulsanti: <br>
+
+### 1) “COME FUNZIONA?”
+
+Cliccando questo pulsante si apre una finestra che spiega all’utente le funzionalità del sistema e in che modo procedere in base alle proprie esigenze. <br>
+
+<img src="images/2.PNG"> <br>
+
+### 2) “REGISTRATI”
+Cliccando questo pulsante si accede alla pagina di registrazione nuovo utente.
+<img src="images/3.PNG"> <br>
+
+La registrazione dell’utente deve essere fatta solo una volta, la prima volta che si accede al sistema. Per effettuare la registrazione è necessario essere a conoscenza della password per salvare un nuovo profilo utente. Se la password inserita non è corretta, viene mostrato un messaggio di errore. <br>
