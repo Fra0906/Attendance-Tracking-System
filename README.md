@@ -69,5 +69,26 @@ Nella pagina, a sinistra, è possibile vedere in tempo reale nella tabella le pr
  <img src="images/10.PNG"> <br>
  
  ### OSSERVAZIONI
+• All’interno del sistema è sempre presente un menù a tendina “Help”, consultabile in ogni momento. Attraverso questo, è possibile modificare la password del sistema di registrazione; sono presenti i contatti utili ed è possibile chiudere il sistema. <br>
+  <img src="images/11.PNG"> <br>
+ 
+ Vediamo nel dettaglio le singole voci:
+- Modifica Password: Consente in qualsiasi momento di modificare la password del sistema. Per farlo, occorre inserire la vecchia password per poi inserirne la nuova.
+Sulla password, sia vecchia che nuova, sono effettuati tutti i controlli necessari. <br>
+- Contatti: Consente di visualizzare dei contatti utili per aiuto o qualsiasi tipo di informazione. <br>
+- Esci: Permette all’utente di chiudere l’applicazione in qualsiasi momento lo si voglia. <br>
+ <p>
+• In tutte le pagine è presente il pulsante “BACK” che se cliccato riporta alla pagina principale dove è presente il menù con i pulsanti.
+  <p>
+• Nella pagina di registrazione nuovo utente sono presenti i pulsanti “Cancella” che se premuti rimuovono il contenuto inserito dall’utente.
+Sotto i pulsanti c’è una barra di avvisi, il contenuto del messaggio cambia in base all’operazione che si sta eseguendo o che si vuole eseguire.
+   <p>
+In fondo alla pagina è presente una scritta che si aggiorna in tempo reale ogni qual volta viene registrato un nuovo utente.
+<p>Se è la prima volta che si utilizza il sistema è necessario impostare una password nel momento in cui si effettua il salvataggio. La password verrà memorizzata nella cartella TrainingImageLabel in un file di testo chiamato psd.txt.
+ 
+ <p> È possibile cambiare la password utilizzando il menù a tendina “Help”, come già detto, in ogni momento.
+  <p>
+• Nella pagina di login utente, in alto, è possibile visualizzare la data e l’ora in tempo reale; la stessa che verrà visualizzata nella tabella delle presenze.
+<p>Premendo il pulsante “Esci” è possibile uscire dal sistema.
  
                                                                     
