@@ -73,10 +73,10 @@ Nella pagina, a sinistra, è possibile vedere in tempo reale nella tabella le pr
   <img src="images/11.PNG"> <br>
  
  Vediamo nel dettaglio le singole voci:
-- Modifica Password: Consente in qualsiasi momento di modificare la password del sistema. Per farlo, occorre inserire la vecchia password per poi inserirne la nuova.
+Modifica Password: Consente in qualsiasi momento di modificare la password del sistema. Per farlo, occorre inserire la vecchia password per poi inserirne la nuova.
 Sulla password, sia vecchia che nuova, sono effettuati tutti i controlli necessari. <br>
-- Contatti: Consente di visualizzare dei contatti utili per aiuto o qualsiasi tipo di informazione. <br>
-- Esci: Permette all’utente di chiudere l’applicazione in qualsiasi momento lo si voglia. <br>
+Contatti: Consente di visualizzare dei contatti utili per aiuto o qualsiasi tipo di informazione. <br>
+Esci: Permette all’utente di chiudere l’applicazione in qualsiasi momento lo si voglia. <br>
  <p>
 • In tutte le pagine è presente il pulsante “BACK” che se cliccato riporta alla pagina principale dove è presente il menù con i pulsanti.
   <p>
